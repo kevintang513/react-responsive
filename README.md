@@ -103,3 +103,5 @@ export const YourComponent = props => {
     return (<div>{size}</div>)
 });
 ```
+
+<!-- Verification comment: Setup test successful -->
